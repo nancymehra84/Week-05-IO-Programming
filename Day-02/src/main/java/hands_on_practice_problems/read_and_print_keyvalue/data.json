@@ -1,0 +1,9 @@
+{
+  "name": "Nancy",
+  "age": 20,
+  "email": "mehranancy975@gmail.com",
+  "phoneNumbers": [
+    {"type": "home","number": "8282982377"},
+    {"type": "alternate","number": "1234567890"}
+  ]
+}
